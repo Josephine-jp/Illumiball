@@ -9,11 +9,7 @@ public class GravityCntroller : MonoBehaviour
     //重力の適用具合
     public float gravityScale = 1.0f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
 
     // Update is called once per frame
     void Update()
